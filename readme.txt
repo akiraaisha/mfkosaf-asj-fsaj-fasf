@@ -1,0 +1,2 @@
+Notice:
+This file contains information related to your additional Facebook profile. Some information like your ads data, location data, security data, login data and more can only be downloaded from your main profile. Learn more https://www.facebook.com/help/212802592074644/
